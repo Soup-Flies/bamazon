@@ -1,0 +1,15 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Homework for MySQL ",
+  "main": "bamazon.js",
+  "scripts": {
+    "start": "node bamazon.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Charais <benjcharais@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "^2.14.1"
+  }
+}
