@@ -1,0 +1,1 @@
+App entirely uses inquirer for interaction, so that it can just be run by <h1>npm start.<h1> :P

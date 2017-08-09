@@ -45,7 +45,7 @@ const database = {
   },
   delete: function() {},
   format: function() {
-    console.log("\nID:   NAME  --  PRICE \n");
+    console.log("\nID:  NAME  --  PRICE \n");
     this.read().then(ans => {
       for (item in ans) {
         const temp = 
